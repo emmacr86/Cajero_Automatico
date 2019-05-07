@@ -1,0 +1,5 @@
+2017-04-16,19:11:15,a@gmail.com,Transaccion Saliente,2000,1000
+2017-04-16,19:11:15,b@gmail.com,Transaccion Entrante,12000,130002017-04-17,03:57:01,a@gmail.com,Deposito,4000,4000
+2017-04-17,03:57:14,a@gmail.com,Retiro,4000,3500
+2017-04-17,03:57:37,a@gmail.com,Transaccion Saliente,3500,3445
+2017-04-17,03:57:37,b@gmail.com,Transaccion Entrante,13000,13055
